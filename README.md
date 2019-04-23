@@ -3,7 +3,7 @@ This is a Telegram bot I use to send me notification when certain dungeons where
 
 All of the information required are inside the code, main.py
 
-You need this {= https://core.telegram.org/bots} to create a telegram bot
+You need this {= https://core.telegram.org/bots } to create a telegram bot
 
 You need all inside the folder to make it run.
 
