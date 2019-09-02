@@ -9,4 +9,4 @@ You need all inside the folder to make it run.
 
 If you have any trouble, let me know.
 
-P.S.: This bot was programmed one year ago, at the moment. At that time it worked pretty well; now i don't grant anything
+EDIT: This bot was programmed one year ago. Back then, it worked pretty well; now i don't grant anything
